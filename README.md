@@ -41,7 +41,7 @@ sat-tracker-backend/
 
 ## Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/n-bhanu-prakash/sat-tracker-backend.git
 cd sat-tracker-backend
 
