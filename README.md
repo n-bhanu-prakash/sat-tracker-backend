@@ -12,7 +12,7 @@ This project provides endpoints to fetch:
 ---
 
 ## Project Structure
-
+```
 sat-tracker-backend/
 │── app/
 │ ├── main.py # FastAPI entrypoint
@@ -35,7 +35,7 @@ sat-tracker-backend/
 ├── .env # Environment variables (N2YO_API_KEY, MONGO_URI, etc.)
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
-
+```
 
 ---
 
